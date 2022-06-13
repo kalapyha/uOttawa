@@ -1,9 +1,15 @@
 # uOttawa auth project
 
 Please see [live version here](https://joyful-naiad-355a10.netlify.app/login).
+
+***
+
 You can also check [this Repl](https://replit.com/@kalapyha/uOttawa#).
 
+<img width="590" alt="Screen Shot 2022-06-13 at 4 17 50 AM" src="https://user-images.githubusercontent.com/47543543/173310438-cc60ebdc-fa13-4b54-a737-fbda2672d598.png">
+
 ## Quick Start
+
 
 ```bash
 
